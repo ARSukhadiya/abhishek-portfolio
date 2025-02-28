@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/abhishek-portfolio/static/css/main.12424da7.css",
-    "main.js": "/abhishek-portfolio/static/js/main.719fdb94.js",
+    "main.css": "/abhishek-portfolio/static/css/main.7aeba694.css",
+    "main.js": "/abhishek-portfolio/static/js/main.a2833e8c.js",
     "static/js/415.4d6acbeb.chunk.js": "/abhishek-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/abhishek-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/ai_advisor.jpeg": "/abhishek-portfolio/static/media/ai_advisor.165a4d8835c354d928c8.jpeg",
     "static/media/web_crawler.jpeg": "/abhishek-portfolio/static/media/web_crawler.12b7f47e1c77e2a5093b.jpeg",
     "static/media/AbhishekSukhadiya_Resume.pdf": "/abhishek-portfolio/static/media/AbhishekSukhadiya_Resume.ba57eb0af3e3d156d94b.pdf",
     "static/media/home-main.svg": "/abhishek-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/logo3.png": "/abhishek-portfolio/static/media/logo3.f4d219ef1cd2238d41ee.png",
     "static/media/scaleEvv.jpg": "/abhishek-portfolio/static/media/scaleEvv.fcfc5e168ee6fe53d030.jpg",
     "static/media/about.png": "/abhishek-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/heirList.jpg": "/abhishek-portfolio/static/media/heirList.eeeabadcd1eec807e121.jpg",
     "static/media/i_Detect.jpg": "/abhishek-portfolio/static/media/i_Detect.f254e6d0cc7ca19f2e84.jpg",
     "static/media/reactNative.jpg": "/abhishek-portfolio/static/media/reactNative.3a040dec1d00d18a1409.jpg",
     "static/media/home-bg.jpg": "/abhishek-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.jpg": "/abhishek-portfolio/static/media/logo.5a788c3feb485d54618c.jpg",
     "static/media/avatar.svg": "/abhishek-portfolio/static/media/avatar.3ece12a733e877d92fbc0c3fb219f5e4.svg",
     "static/media/pre.svg": "/abhishek-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/abhishek-portfolio/index.html",
-    "main.12424da7.css.map": "/abhishek-portfolio/static/css/main.12424da7.css.map",
-    "main.719fdb94.js.map": "/abhishek-portfolio/static/js/main.719fdb94.js.map",
+    "main.7aeba694.css.map": "/abhishek-portfolio/static/css/main.7aeba694.css.map",
+    "main.a2833e8c.js.map": "/abhishek-portfolio/static/js/main.a2833e8c.js.map",
     "415.4d6acbeb.chunk.js.map": "/abhishek-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/abhishek-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12424da7.css",
-    "static/js/main.719fdb94.js"
+    "static/css/main.7aeba694.css",
+    "static/js/main.a2833e8c.js"
   ]
 }
