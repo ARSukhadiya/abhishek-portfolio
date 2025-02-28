@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Abhishek-Sukhadiya/static/css/main.edfa8a42.css",
+    "main.js": "/Abhishek-Sukhadiya/static/js/main.b4247440.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Abhishek-Sukhadiya/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Abhishek-Sukhadiya/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ai_advisor.jpeg": "/Abhishek-Sukhadiya/static/media/ai_advisor.165a4d8835c354d928c8.jpeg",
+    "static/media/web_crawler.jpeg": "/Abhishek-Sukhadiya/static/media/web_crawler.12b7f47e1c77e2a5093b.jpeg",
+    "static/media/AbhishekSukhadiya_Resume.pdf": "/Abhishek-Sukhadiya/static/media/AbhishekSukhadiya_Resume.ba57eb0af3e3d156d94b.pdf",
+    "static/media/home-main.svg": "/Abhishek-Sukhadiya/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/logo3.png": "/Abhishek-Sukhadiya/static/media/logo3.f4d219ef1cd2238d41ee.png",
+    "static/media/scaleEvv.jpg": "/Abhishek-Sukhadiya/static/media/scaleEvv.fcfc5e168ee6fe53d030.jpg",
+    "static/media/about.png": "/Abhishek-Sukhadiya/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/heirList.jpg": "/Abhishek-Sukhadiya/static/media/heirList.eeeabadcd1eec807e121.jpg",
+    "static/media/i_Detect.jpg": "/Abhishek-Sukhadiya/static/media/i_Detect.f254e6d0cc7ca19f2e84.jpg",
+    "static/media/reactNative.jpg": "/Abhishek-Sukhadiya/static/media/reactNative.3a040dec1d00d18a1409.jpg",
+    "static/media/home-bg.jpg": "/Abhishek-Sukhadiya/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Abhishek-Sukhadiya/static/media/avatar.3ece12a733e877d92fbc0c3fb219f5e4.svg",
+    "static/media/pre.svg": "/Abhishek-Sukhadiya/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Abhishek-Sukhadiya/index.html",
+    "main.edfa8a42.css.map": "/Abhishek-Sukhadiya/static/css/main.edfa8a42.css.map",
+    "main.b4247440.js.map": "/Abhishek-Sukhadiya/static/js/main.b4247440.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Abhishek-Sukhadiya/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Abhishek-Sukhadiya/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfa8a42.css",
+    "static/js/main.b4247440.js"
+  ]
+}
